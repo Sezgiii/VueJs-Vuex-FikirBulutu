@@ -1,5 +1,7 @@
 # bulut
 
+![view](resim2.png)
+
 ## Project setup
 ```
 npm install
